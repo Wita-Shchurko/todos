@@ -1,6 +1,6 @@
 # Todos app ✔️
 
-[Open app](https://wita-shchurko.github.io/todos)
+## [🔴Open app](https://wita-shchurko.github.io/todos)
 
 The Todos application is built using the React library and TypeScript, leveraging an API(https://mate.academy/students-api) for task management. Users can perform various operations such as adding, editing (by double-clicking on the task name), deleting tasks, marking tasks as completed, and clearing the list of completed tasks.
 
